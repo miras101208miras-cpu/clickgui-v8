@@ -1,0 +1,24 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "com.example.clickgui.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "FireOverlayMixin",
+    "FogColorMixin",
+    "FreeLookMixin",
+    "FreeLookCameraMixin",
+    "OutlinesMixin",
+    "OutlinesColorMixin",
+    "ChamsMixin",
+    "NametagCancelMixin",
+    "BlockOutlineMixin",
+    "InteractionAccessor",
+    "HeldItemRendererMixin",
+    "InGameHudMixin",
+    "WorldTimeMixin",
+    "HandledScreenAccessor",
+    "HandledScreenMixin"
+  ],
+  "injectors": { "defaultRequire": 0 }
+}
